@@ -68,10 +68,10 @@ namespace ClockOOP
 
             if (is24HourFormat)
             {
-                Console.WriteLine($"A beállított idő: {Hour}:{Minute}:{Second} \nIdőzóna: {timeZone}, Időformátum: 24 órás");
+                Console.WriteLine($"{Hour}:{Minute}:{Second} \nIdőzóna: {timeZone}, Időformátum: 24 órás");
             } else
             {
-                Console.WriteLine($"A beállított idő: {Hour}:{Minute}:{Second} \nIdőzóna: {timeZone}, Időformátum: 12 órás");
+                Console.WriteLine($"{Hour}:{Minute}:{Second} \nIdőzóna: {timeZone}, Időformátum: 12 órás");
             }
         }
 
