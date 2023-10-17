@@ -29,6 +29,5 @@ namespace ClockOOP
             }
             Console.WriteLine("Az időzítés véget ért.");
         }
-
     }
 }
