@@ -45,7 +45,7 @@ namespace ClockOOP
             myTimer.StartTimer();
 
             //Feladat 7
-            Console.WriteLine("Feladatsor lefuttatva, minden működött.");
+            Console.WriteLine("Feladatsor lefuttatva, minden működött."); //az óra ellenőrzését 25 órával is kipróbáltam, működött az ellenőrzés
             Console.ReadLine();
         }
     }
